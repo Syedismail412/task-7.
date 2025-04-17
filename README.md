@@ -1,4 +1,4 @@
-Task 7: Basic Sales Summary with Python & SQLite
+ Basic Sales Summary with Python & SQLite
 This project is part of a Data Analyst internship assignment. The goal is to extract and visualize basic sales data using SQL inside Python.
 
 📌 Objective
